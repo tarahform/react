@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Rick",
+    "image": "https://media.giphy.com/media/1USKMDPjuH4ovL7J5h/giphy.gif"
+  },
+  {
+    "id": 2,
+    "name": "Commander Rick",
+    "image": "https://media.giphy.com/media/3Fdskc7J0timI/giphy.gif"
+  },
+  {
+    "id": 3,
+    "name": "Pickle Rick",
+    "image": "https://media.giphy.com/media/9zXWAIcr6jycE/giphy.gif"
+  },
+  {
+    "id": 4,
+    "name": "Tiny Rick",
+    "image": "https://media.giphy.com/media/2s0ouek7HJmWQ/giphy.gif"
+  },
+  {
+    "id": 5,
+    "name": "Rick Astley",
+    "image": "https://media.giphy.com/media/olAik8MhYOB9K/giphy.gif"
+  },
+  {
+    "id": 6,
+    "name": "Rick James",
+    "image": "https://media.giphy.com/media/dFqP7vPEzKoM0/giphy.gif"
+  },
+  {
+    "id": 7,
+    "name": "Rick Ross",
+    "image": "https://media.giphy.com/media/zhHIxphwSP95u/giphy.gif"
+  },
+  {
+    "id": 8,
+    "name": "Rick Springfield",
+    "image": "https://media.giphy.com/media/FOJJ7faKeAafS/giphy.gif"
+  },
+  {
+    "id": 9,
+    "name": "Rick Moranis", 
+    "image": "https://media.giphy.com/media/IX1Xpca3OWIRa/giphy.gif"
+  },
+  {
+    "id": 10,
+    "name": "Rick Grimes",
+    "image": "https://media.giphy.com/media/VyayJYU8BYqSk/giphy.gif"
+  }
+]

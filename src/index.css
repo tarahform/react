@@ -1,0 +1,16 @@
+html, body, #root {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+#bodyDiv {
+background: url("./img/wormhole.png");
+width: 100%;
+height: auto;
+}
+#scoreDiv {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20pt;
+  color: black;
+}
