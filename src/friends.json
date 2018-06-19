@@ -48,5 +48,15 @@
     "id": 10,
     "name": "Rick Grimes",
     "image": "https://media.giphy.com/media/VyayJYU8BYqSk/giphy.gif"
+  },
+  {
+    "id": 11,
+    "name": "Rick Harrison",
+    "image": "https://media.giphy.com/media/1lbA6bixQznYk/giphy.gif"
+  },
+  {
+    "id": 12,
+    "name": "Rick Fox",
+    "image": "https://media.giphy.com/media/nCK5QKtJ4MlSU/giphy.gif"
   }
 ]

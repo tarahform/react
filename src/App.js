@@ -23,8 +23,8 @@ class App extends React.Component {
 
   getNewID = () => {
     const arr = []
-    while (arr.length < 10) {
-      var randomnumber = Math.floor(Math.random() * 10) + 1;
+    while (arr.length < 12) {
+      var randomnumber = Math.floor(Math.random() * 12) + 1;
       if (arr.indexOf(randomnumber) > -1) continue;
       arr[arr.length] = randomnumber;
     }
@@ -70,7 +70,7 @@ class App extends React.Component {
       this.setState({ click: newClick, score: score, high: high });
       // console.log(this.state.click);
       this.shuffle();
-      if (score === 10) {
+      if (score === 12) {
         alert("You Win!");
       }
     } else {
